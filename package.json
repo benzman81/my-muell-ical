@@ -16,6 +16,7 @@
   "license": "GPL-3.0",
   "readmeFilename": "README.md",
   "dependencies": {
-    "ical-generator": "^1.15.3"
+    "ical-generator": "^1.15.3",
+    "request": "^2.88.2"
   }
 }
