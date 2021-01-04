@@ -12,7 +12,7 @@
     "my-muell-ical",
     "my muell"
   ],
-  "author": "benzman81"
+  "author": "benzman81",
   "license": "GPL-3.0",
   "readmeFilename": "README.md",
   "dependencies": {
