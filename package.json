@@ -2,7 +2,7 @@
   "name": "my-muell-ical",
   "version": "0.1.0",
   "description": "my-muell-ical",
-  "main": "server.js",
+  "main": "app/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
   },
